@@ -1,0 +1,45 @@
+.card-info img{
+    width: 230px;
+    height: 230px;
+    }
+    .image-container {
+        display: flex;
+    }
+    
+    .image-container img {
+        margin-right: 10px; 
+    }
+    
+    .active a {
+        color: red; 
+        font-weight: bold; 
+    }
+    
+    .menu i.material-icons {
+        color: blue;
+        font-size: 30px;
+    }
+
+    .footer-container {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    .footer-links {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    
+
+    .row {
+        margin-bottom: 20px; 
+    }
+  
+    .card.blue-text {
+        color: blue; 
+        padding: 20px; 
+    }
+    
+    
